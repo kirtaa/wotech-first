@@ -1,6 +1,6 @@
 Read me file uses markdown syntax to edit any text, formualas or codes. 
 
-# Welcom to my repository
+# Welcome to my repository
 
 ## My skills
 - Java
